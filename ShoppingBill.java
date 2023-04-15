@@ -135,7 +135,7 @@ public class ShoppingBill
                 System.out.println("\n\t\t\t\t\t\t\t\t\t\t          CGST (%) "+cgst);  
                 //calculating amount to be paid by buyer  
                 System.out.println("\n\t\t\t\t\t\t\t\t\t\t     Invoice Total " +(subtotal+cgst+sgst));  
-                System.out.println("\t\t\t\t----------------Thank You for Shopping!!-----------------");  
+                System.out.println("\t\t\t\t----------------Thank You for the Shopping!!-----------------");  
                 System.out.println("\t\t\t\t                     Visit Again");  
                 // close Scanner  
             }
